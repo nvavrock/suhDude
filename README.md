@@ -12,4 +12,4 @@ suh dude
 
 [YouTube Video](https://www.youtube.com/shorts/ypj7OoBB5LE)
 
-<details>
+</details>
