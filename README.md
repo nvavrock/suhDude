@@ -1,7 +1,5 @@
 <details>
 
-<details>
-
 # suh Dude
 
 wha suh dude
